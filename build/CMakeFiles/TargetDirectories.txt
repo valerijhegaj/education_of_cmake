@@ -1,0 +1,6 @@
+/Users/valerijhegaj/Desktop/test/build/CMakeFiles/rebuild_cache.dir
+/Users/valerijhegaj/Desktop/test/build/CMakeFiles/edit_cache.dir
+/Users/valerijhegaj/Desktop/test/build/CMakeFiles/main.dir
+/Users/valerijhegaj/Desktop/test/build/lib1/CMakeFiles/rebuild_cache.dir
+/Users/valerijhegaj/Desktop/test/build/lib1/CMakeFiles/edit_cache.dir
+/Users/valerijhegaj/Desktop/test/build/lib1/CMakeFiles/lib1.dir
